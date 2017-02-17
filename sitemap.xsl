@@ -57,7 +57,7 @@
 
                 <xsl:apply-templates/>
 
-                <footer class="mw8 pv4 center tc">
+                <footer class="mw8 center pv4 tc">
                     This is an open source <a href="https://github.com/pedroborges/xml-sitemap-stylesheet" title="Go to Github" class="link blue">XML Sitemap Stylesheet</a> designed by <a href="https://pedroborg.es" title="Pedro Borges" class="link blue">pedroborg.es</a>
                 </footer>
 
@@ -114,16 +114,16 @@
                 <table class="w-100 f6 b--silver ba bw1" cellspacing="0">
                     <thead class="bg-silver">
                         <tr>
-                            <th class="fw6 tl pa3 dark-gray" style="width:60px"></th>
-                            <th class="fw6 tl pa3 dark-gray">URL</th>
+                            <th class="pa3 fw6 tl dark-gray" style="width:60px"></th>
+                            <th class="pa3 fw6 tl dark-gray">URL</th>
                             <xsl:if test="sitemap:url/sitemap:lastmod">
-                            <th class="fw6 tr pa3 dark-gray" style="width:200px">Last Modified</th>
+                            <th class="pa3 fw6 tr dark-gray" style="width:200px">Last Modified</th>
                             </xsl:if>
                             <xsl:if test="sitemap:url/sitemap:changefreq">
-                            <th class="fw6 tr pa3 dark-gray" style="width:90px">Priority</th>
+                            <th class="pa3 fw6 tr dark-gray" style="width:90px">Priority</th>
                             </xsl:if>
                             <xsl:if test="sitemap:url/sitemap:priority">
-                            <th class="fw6 tr pa3 dark-gray" style="width:130px">Change Freq.</th>
+                            <th class="pa3 fw6 tr dark-gray" style="width:130px">Change Freq.</th>
                             </xsl:if>
                         </tr>
                     </thead>
