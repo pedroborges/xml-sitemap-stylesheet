@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://gitcdn.xyz/repo/pedroborges/sitemap-stylesheet/master/sitemap.xsl"?>
+<urlset
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://yourwebsite.com/projects</loc>
+        <lastmod>2017-02-15T18:49:22+00:00</lastmod>
+        <xhtml:link hreflang="en" href="https://yourwebsite.com/projects" rel="alternate" />
+        <xhtml:link hreflang="pt-br" href="https://yourwebsite.com/pt-br/projetos" rel="alternate" />
+    </url>
+    <url>
+        <loc>https://yourwebsite.com/projects/project-a</loc>
+        <lastmod>2017-02-15T18:49:22+00:00</lastmod>
+        <xhtml:link hreflang="en" href="https://yourwebsite.com/projects/project-a" rel="alternate" />
+        <xhtml:link hreflang="pt-br" href="https://yourwebsite.com/pt-br/projetos/projeto-a" rel="alternate" />
+        <image:image>
+            <image:loc>https://yourwebsite.com/projects/project-a/image-1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourwebsite.com/projects/project-a/image-2.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourwebsite.com/projects/project-a/image-3.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://yourwebsite.com/projects/project-b</loc>
+        <lastmod>2017-02-15T18:49:22+00:00</lastmod>
+        <xhtml:link hreflang="en" href="https://yourwebsite.com/projects/project-b" rel="alternate" />
+        <xhtml:link hreflang="pt-br" href="https://yourwebsite.com/pt-br/projetos/projeto-b" rel="alternate" />
+        <image:image>
+            <image:loc>https://yourwebsite.com/projects/project-b/image-1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourwebsite.com/projects/project-b/image-2.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://yourwebsite.com/projects/project-c</loc>
+        <lastmod>2017-02-15T18:49:22+00:00</lastmod>
+        <xhtml:link hreflang="en" href="https://yourwebsite.com/projects/project-c" rel="alternate" />
+        <xhtml:link hreflang="pt-br" href="https://yourwebsite.com/pt-br/projetos/projeto-c" rel="alternate" />
+        <image:image>
+            <image:loc>https://yourwebsite.com/projects/project-c/image-1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourwebsite.com/projects/project-c/image-2.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://yourwebsite.com/projects/project-d</loc>
+        <lastmod>2017-02-15T18:49:22+00:00</lastmod>
+        <xhtml:link hreflang="en" href="https://yourwebsite.com/projects/project-d" rel="alternate" />
+        <xhtml:link hreflang="pt-br" href="https://yourwebsite.com/pt-br/projetos/projeto-d" rel="alternate" />
+        <image:image>
+            <image:loc>https://yourwebsite.com/projects/project-d/image-1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourwebsite.com/projects/project-d/image-2.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://yourwebsite.com/projects/project-e</loc>
+        <lastmod>2017-02-15T18:49:22+00:00</lastmod>
+        <xhtml:link hreflang="en" href="https://yourwebsite.com/projects/project-e" rel="alternate" />
+        <xhtml:link hreflang="pt-br" href="https://yourwebsite.com/pt-br/projetos/projeto-e" rel="alternate" />
+        <image:image>
+            <image:loc>https://yourwebsite.com/projects/project-e/image-1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://yourwebsite.com/projects/project-e/image-2.jpg</image:loc>
+        </image:image>
+    </url>
+</urlset>

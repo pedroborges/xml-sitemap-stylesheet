@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://gitcdn.xyz/repo/pedroborges/sitemap-stylesheet/master/sitemap.xsl"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+        <loc>https://yoursite.com/videos/video-1</loc>
+        <lastmod>2017-02-15T18:49:22+00:00</lastmod>
+        <video:video>
+            <video:thumbnail_loc>https://yoursite.com/thumbs/1.jpg</video:thumbnail_loc>
+            <video:title>Inusa commolu ptatent</video:title>
+            <video:description>Isquibus rae laut volut liquo blaut quo moloreperum reseruptaque</video:description>
+            <video:content_loc>https://yoursite.com/video-1.mp4</video:content_loc>
+            <video:duration>600</video:duration>
+            <video:expiration_date>2016-11-05T19:20:30+08:00</video:expiration_date>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://yoursite.com/videos/video-2</loc>
+        <lastmod>2017-02-11T11:18:01+00:00</lastmod>
+        <video:video>
+            <video:thumbnail_loc>https://yoursite.com/thumbs/2.jpg</video:thumbnail_loc>
+            <video:title>Quostium reprem rereprat</video:title>
+            <video:description>Tas maxim est iunt occum resenit</video:description>
+            <video:content_loc>https://yoursite.com/video-2.mp4</video:content_loc>
+            <video:duration>12887</video:duration>
+            <video:expiration_date>2017-01-05T22:01:43+08:00</video:expiration_date>
+        </video:video>
+    </url>
+    <url>
+        <loc>https://yoursite.com/videos/video-3</loc>
+        <lastmod>2017-02-01T17:27:20+00:00</lastmod>
+        <video:video>
+            <video:thumbnail_loc>https://yoursite.com/thumbs/3.jpg</video:thumbnail_loc>
+            <video:title>Molupta spiene recepudam</video:title>
+            <video:description>Incipsus aut essequos eum fuga</video:description>
+            <video:content_loc>https://yoursite.com/video-3.mp4</video:content_loc>
+            <video:duration>422</video:duration>
+            <video:expiration_date>2017-01-15T03:02:16+08:00</video:expiration_date>
+        </video:video>
+    </url>
+</urlset>
