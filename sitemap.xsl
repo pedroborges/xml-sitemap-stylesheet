@@ -51,7 +51,7 @@
                     </h2>
                     <p>
                         This is an XML sitemap, meant for consumption by search engines.<br/>
-                        You can find more information about XML sitemaps on <a href="https://sitemaps.org" class="link blue">sitemaps.org</a>.
+                        You can find more information about XML sitemaps on <a href="https://www.sitemaps.org" class="link blue">sitemaps.org</a>.
                     </p>
                 </header>
 
