@@ -12,11 +12,12 @@
     <xsl:template match="/">
         <html>
             <head>
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <title>
                     Sitemap
                     <xsl:if test="sitemap:sitemapindex">Index</xsl:if>
                 </title>
-                <link rel="stylesheet" href="https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css"/>
+                <link rel="stylesheet" href="https://www.unpkg.com/tachyons@4.6.1/css/tachyons.min.css"/>
             </head>
             <body class="ph3 pb3 mid-gray">
                 <header class="mw8 pv4 center">
@@ -51,14 +52,14 @@
                     </h2>
                     <p>
                         This is an XML sitemap, meant for consumption by search engines.<br/>
-                        You can find more information about XML sitemaps on <a href="https://sitemaps.org" class="link blue">sitemaps.org</a>.
+                        You can find more information about XML sitemaps on <a href="https://www.sitemaps.org" class="link blue">www.sitemaps.org</a>.
                     </p>
                 </header>
 
                 <xsl:apply-templates/>
 
                 <footer class="mw8 center pv4 tc">
-                    This is an open source <a href="https://github.com/pedroborges/xml-sitemap-stylesheet" title="Go to Github" class="link blue">XML Sitemap Stylesheet</a> created by <a href="https://pedroborg.es" title="Pedro Borges" class="link blue">pedroborg.es</a>
+                    This is an open source <a href="https://www.github.com/pedroborges/xml-sitemap-stylesheet" title="Go to Github" class="link blue">XML Sitemap Stylesheet</a> created by <a href="https://www.pedroborg.es" title="Pedro Borges" class="link blue">www.pedroborg.es</a>
                 </footer>
 
             </body>
