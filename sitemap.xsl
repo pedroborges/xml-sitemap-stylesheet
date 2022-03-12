@@ -59,7 +59,7 @@
                 <xsl:apply-templates/>
 
                 <footer class="mw8 center pv4 tc">
-                    This is an open source <a href="https://www.github.com/pedroborges/xml-sitemap-stylesheet" title="Go to Github" class="link blue">XML Sitemap Stylesheet</a> created by <a href="https://www.pedroborg.es" title="Pedro Borges" class="link blue">www.pedroborg.es</a>
+                    This is an open source <a href="https://www.github.com/pedroborges/xml-sitemap-stylesheet" title="Go to Github" class="link blue">XML Sitemap Stylesheet</a> created by <a title="Pedro Borges">Pedro Borges</a>
                 </footer>
 
             </body>
