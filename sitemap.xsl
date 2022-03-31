@@ -11,15 +11,15 @@
 
     <xsl:template match="/">
         <html>
-            <!--The metadata of the page, also known as the head, should not be confused with the header.-->
+            <!-- The metadata of the page, also known as the head, should not be confused with the header. -->
             <head>
-                <!--Scales the page down to the display.-->
+                <!-- Scales the page down to the display. -->
                 <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no" />
-                <!--The title is displayed on the browser's tab next to the favicon.-->
+                <!-- The title is displayed on the browser's tab next to the favicon. -->
                 <title>
                     Sitemap <xsl:if test="sitemap:sitemapindex">Index</xsl:if>
                 </title>
-                <!--Loads a CSS file.-->
+                <!-- Loads a CSS file. -->
                 <link rel="stylesheet" href="https://www.unpkg.com/tachyons@4.6.1/css/tachyons.min.css" />
             </head>
             <body class="ph3 pb3 mid-gray">
