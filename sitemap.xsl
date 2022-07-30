@@ -20,7 +20,7 @@
                     Sitemap <xsl:if test="sitemap:sitemapindex">Index</xsl:if>
                 </title>
                 <!-- Loads a CSS file. -->
-                <link rel="stylesheet" href="https://www.unpkg.com/tachyons@4.6.1/css/tachyons.min.css" />
+                <link rel="stylesheet" href="https://paste.ee/r/WN5iY/0" />
             </head>
             <body class="ph3 pb3 mid-gray">
                 <header class="mw8 pv4 center">
