@@ -1,0 +1,274 @@
+/*! TACHYONS v4.6.1 | http://tachyons.io */
+/*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+footer,
+header {
+  display: block;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+a {
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+a:active,
+a:hover {
+  outline-width: 0;
+}
+
+strong {
+  font-weight: inherit;
+  font-weight: bolder;
+}
+
+small {
+  font-size: 80%;
+}
+
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  font: inherit;
+}
+
+a,
+body,
+div,
+footer,
+h1,
+h2,
+header,
+html,
+p,
+table,
+td,
+th,
+tr {
+  box-sizing: border-box;
+}
+
+.ba {
+  border-style: solid;
+  border-width: 1px;
+}
+
+.bb {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+
+.b--silver {
+  border-color: #999;
+}
+
+.br-pill {
+  border-radius: 9999px;
+}
+
+.bw1 {
+  border-width: 0.125rem;
+}
+
+.dib {
+  display: inline-block;
+}
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.items-center {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.i {
+  font-style: italic;
+}
+
+.normal {
+  font-weight: 400;
+}
+
+.b {
+  font-weight: 700;
+}
+
+.fw6 {
+  font-weight: 600;
+}
+
+.tracked {
+  letter-spacing: 0.1em;
+}
+
+.lh-solid {
+  line-height: 1;
+}
+
+.lh-copy {
+  line-height: 1.5;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link,
+.link:active,
+.link:focus,
+.link:hover,
+.link:link,
+.link:visited {
+  -webkit-transition: color 0.15s ease-in;
+  transition: color 0.15s ease-in;
+}
+
+.link:focus {
+  outline: 1px dotted currentColor;
+}
+
+.mw8 {
+  max-width: 64rem;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.overflow-auto {
+  overflow: auto;
+}
+
+.dark-gray {
+  color: #333;
+}
+
+.mid-gray {
+  color: #555;
+}
+
+.gray {
+  color: #777;
+}
+
+.white {
+  color: #fff;
+}
+
+.blue {
+  color: #357edd;
+}
+
+.bg-silver {
+  background-color: #999;
+}
+
+.bg-near-white {
+  background-color: #f4f4f4;
+}
+
+.bg-light-blue {
+  background-color: #96ccff;
+}
+
+.hover-bg-white:focus,
+.hover-bg-white:hover {
+  background-color: #fff;
+}
+
+.hover-bg-blue:focus,
+.hover-bg-blue:hover {
+  background-color: #357edd;
+}
+
+.pa3 {
+  padding: 1rem;
+}
+
+.pb3 {
+  padding-bottom: 1rem;
+}
+
+.pv1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.pv4 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.ph1 {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+
+.ph2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.ph3 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.ma0 {
+  margin: 0;
+}
+
+.mr2 {
+  margin-right: 0.5rem;
+}
+
+.mt4 {
+  margin-top: 2rem;
+}
+
+.tl {
+  text-align: left;
+}
+
+.tr {
+  text-align: right;
+}
+
+.tc {
+  text-align: center;
+}
+
+.f2 {
+  font-size: 2.25rem;
+}
+
+.f4 {
+  font-size: 1.25rem;
+}
+
+.f6 {
+  font-size: 0.875rem;
+}
+
+.center {
+  margin-right: auto;
+  margin-left: auto;
+}
