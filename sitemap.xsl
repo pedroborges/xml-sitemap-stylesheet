@@ -20,12 +20,12 @@
                     Sitemap <xsl:if test="sitemap:sitemapindex">Index</xsl:if>
                 </title>
                 <!-- Loads a CSS file. -->
-                <link rel="stylesheet" href="https://paste.ee/r/WN5iY/0" />
+                <link rel="stylesheet" href="./css/tachyons.css" />
             </head>
             <body class="ph3 pb3 mid-gray">
-                <header class="mw8 pv4 center">
+                <header class="mw8 pv4 center" style="text-align: center;">
                     <div class="flex items-center">
-                        <h1 class="ma0 mr2 f2 blue">Sitemap</h1>
+                        <h1 class="ma0 mr2 f2 blue center">Sitemap</h1>
                         <xsl:if test="sitemap:sitemapindex">
                             <span class="dib mr2 ph3 pv1 f6 normal mid-gray bg-light-blue br-pill">Index</span>
                         </xsl:if>
@@ -59,7 +59,7 @@
                 <xsl:apply-templates />
 
                 <footer class="mw8 center pv4 tc">
-                    This is an open source <a href="https://www.github.com/pedroborges/xml-sitemap-stylesheet" title="Go to Github" class="link blue">XML Sitemap Stylesheet</a> created by <a title="Pedro Borges">Pedro Borges</a>
+                    This is an open source <a href="https://www.github.com/pedroborges/xml-sitemap-stylesheet" title="Go to Github" class="link blue">XML Sitemap Stylesheet</a> created by <a title="Pedro Borges">Pedro Borges</a>.
                 </footer>
             </body>
         </html>
