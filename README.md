@@ -5,7 +5,7 @@
 Just add this line to your `sitemap.xml`:
 
 ```xsl
-<?xml-stylesheet type="text/xsl" href="https://gitcdn.xyz/repo/pedroborges/xml-sitemap-stylesheet/master/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://cdn.jsdelivr.net/gh/pedroborges/xml-sitemap-stylesheet/sitemap.xsl"?>
 ```
 
 ## Examples
